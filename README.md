@@ -45,9 +45,9 @@ A modified version of the well-known ResNet architecture, customized for this pr
 
 | Model  | Training Samples | Parameters | Test Accuracy |
 | ------ | ---------------- | ---------- | ------------- |
-| ResNet | 86,437           | 23,509,956 | 99.94%        |
-| CNN    | 86,437           | 14,316,356 | 99.86%        |
-| CRNN   | 992              | 257,628    | 95.327%       |
+| ResNet | 86,437           | 23,509,956 | 99.77%        |
+| CNN    | 86,437           | 14,316,356 | 98.86%        |
+| CRNN   | 992              | 257,628    | 98.36%        |
 
 For detailed performance metrics and visualizations, refer to the respective logs in each model's directory.
 
